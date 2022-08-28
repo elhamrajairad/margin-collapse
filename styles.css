@@ -1,0 +1,17 @@
+div {
+  font-weight: 900;
+  font-size: 2rem;
+}
+.div-one {
+  background-color: rgb(72, 114, 161);
+  border: 1px solid rgb(0, 255, 98);
+  margin-bottom: 4px;
+}
+.div-two {
+  background-color: rgb(187, 210, 236);
+  border: 1px solid rgb(0, 255, 98);
+  margin-top: 4px;
+}
+.parent {
+  background-color: rgb(255, 0, 0);
+}
